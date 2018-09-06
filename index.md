@@ -15,11 +15,10 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- Straw is scheap
+- Grass is free
+- Buy a farm...
+- **And you get all three**
 
 **Bold** and _Italic_ and `Code` text
 
