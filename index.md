@@ -1,5 +1,5 @@
 # BenKriebel's first CS193 lab
-```markdown
+
 Reasons I like CS193
 
 - The opportunity to gain practical, real world experience
